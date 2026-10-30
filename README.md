@@ -240,6 +240,4 @@ If you are contributing to this project:
 - keep secrets out of source control
 - validate both frontend and backend behavior before merging changes
 
-## Notes
 
-This project appears to be a full-stack educational management platform with role-based access and cloud file support. The repository is structured for local development and deployment across separate frontend and backend applications.
